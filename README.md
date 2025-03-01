@@ -6,8 +6,7 @@ More projects are ongoing. Looking forward to sharing them in the future.
 
 Collaborators:
 1. Dr Bhushan Gopaluni:  
-Vice Provost, Faculty Planning, University of British Columbia (UBC) and Principal Investigator at the UBC Data Analytics and Intelligent Systems (DAIS) Lab:  
-https://chbe.ubc.ca/bhushan-gopaluni/  
+Vice Provost, Faculty Planning, University of British Columbia (UBC) and Principal Investigator at the UBC Data Analytics and Intelligent Systems (DAIS) Lab: https://chbe.ubc.ca/bhushan-gopaluni/  
 
 2. Dr Vikramaditya Yadav:  
 Professor, Chemical and Biological Engineering, University of British Columbia (UBC) and Principal Investigator at the UBC BioFoundry Lab:  
